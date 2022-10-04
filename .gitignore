@@ -348,3 +348,15 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+# DS_Store (OSX)
+
+*.DS_Store
+
+
+# The encoded images (as these are to large for GitHub wihtout using git-lfs
+
+Prompting/encodings
+
+README-after-pub.md

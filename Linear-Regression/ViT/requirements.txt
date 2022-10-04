@@ -1,0 +1,16 @@
+torchvision
+webdataset>=0.2.5
+regex
+ftfy
+tqdm
+pandas
+braceexpand
+matplotlib
+nltk
+git+https://github.com/openai/CLIP.git
+numpy
+scikit-learn
+scipy
+tensorboardX
+timm
+wandb
